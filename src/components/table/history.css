@@ -1,0 +1,20 @@
+.history-action-button-container {
+    display: grid;
+    justify-items: center;
+    margin: 1.5rem;
+}
+
+.history-action-error-text {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #ff392d;
+}
+.history-action-button {
+    text-transform: unset !important;
+    background-color: #2196f1 !important;
+}
+
+.history-progress {
+    color: #2196f1 !important;
+}
+

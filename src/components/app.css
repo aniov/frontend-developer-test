@@ -1,0 +1,13 @@
+body {
+    margin: 1rem;
+    background: #ececec;
+    font-family: Roboto, serif;
+}
+
+.history-container {
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    row-gap: 5rem;
+    margin-top: 20%;
+}
